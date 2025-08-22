@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-color: rgb(133, 160, 133);
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 10px black solid;
+    border-top: 2px black solid;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 10px black solid;
+    border-top: 2px black solid;
+}
+img {
+    margin-left: 400px;
+    width: 500px;
+    height: 500px;
+}
