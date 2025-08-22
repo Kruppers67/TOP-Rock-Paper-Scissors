@@ -8,4 +8,4 @@ NOTE: Please open this link via a PC or a laptop! This is not intended for mobil
 
 ANOTHER NOTE: This beginner game project is played solely in the console and is not intended for any other use. I will have an updated rock paper scissors game connected to a better UI in the future!
 
-LINK: 
+LINK: https://kruppers67.github.io/TOP-Rock-Paper-Scissors/
