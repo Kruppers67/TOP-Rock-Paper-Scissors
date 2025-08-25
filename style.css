@@ -14,12 +14,11 @@ h2{
     border-bottom: 10px black solid;
     border-top: 2px black solid;
 }
-img {
-    width: 500px;
-    height: 500px;
-}
 #img-content {
-    position: absolute;
+    background-image: url(assets/Rock\ Paper\ Scissor\ Lizard\ Spock\ \(Green\).jpg);
+    background-size: cover;
+    overflow: hidden;
+    overflow-y: hidden;
     width: 500px;
     height: 500px;
     margin: auto;
